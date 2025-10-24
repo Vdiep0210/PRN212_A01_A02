@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\Project\\MiniHotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|d:\\prn212\\project\\minihotelmanagement\\hotelmanagement\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|d:\\prn212\\project\\minihotelmanagement\\hotelmanagement\\views\\roomeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\views\\roomeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7576A977-B18D-4E22-A967-CFBB0C028A1C}|BusinessObjects\\BusinessObjects.csproj|d:\\prn212\\project\\minihotelmanagement\\businessobjects\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7576A977-B18D-4E22-A967-CFBB0C028A1C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|d:\\prn212\\project\\minihotelmanagement\\hotelmanagement\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|d:\\prn212\\project\\minihotelmanagement\\hotelmanagement\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|d:\\prn212\\project\\minihotelmanagement\\hotelmanagement\\views\\customereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\views\\customereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7576A977-B18D-4E22-A967-CFBB0C028A1C}|BusinessObjects\\BusinessObjects.csproj|d:\\prn212\\project\\minihotelmanagement\\businessobjects\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7576A977-B18D-4E22-A967-CFBB0C028A1C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|d:\\prn212\\project\\minihotelmanagement\\hotelmanagement\\views\\customereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\views\\customereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08F2CE8-D775-49B3-833B-FF33BBD0CF45}|Services\\Services.csproj|d:\\prn212\\project\\minihotelmanagement\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08F2CE8-D775-49B3-833B-FF33BBD0CF45}|Services\\Services.csproj|solutionrelative:services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|d:\\prn212\\project\\minihotelmanagement\\hotelmanagement\\views\\roomeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\views\\roomeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|d:\\prn212\\project\\minihotelmanagement\\hotelmanagement\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|d:\\prn212\\project\\minihotelmanagement\\hotelmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|d:\\prn212\\project\\minihotelmanagement\\hotelmanagement\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|d:\\prn212\\project\\minihotelmanagement\\hotelmanagement\\hotelmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hotelmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|d:\\prn212\\project\\minihotelmanagement\\hotelmanagement\\hotelmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9CDB2F4B-2337-4706-A827-80CEE2B806D0}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hotelmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08F2CE8-D775-49B3-833B-FF33BBD0CF45}|Services\\Services.csproj|d:\\prn212\\project\\minihotelmanagement\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08F2CE8-D775-49B3-833B-FF33BBD0CF45}|Services\\Services.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856DA00-0C55-4017-A03D-805965F1608C}|Repositories\\Repositories.csproj|d:\\prn212\\project\\minihotelmanagement\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856DA00-0C55-4017-A03D-805965F1608C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856DA00-0C55-4017-A03D-805965F1608C}|Repositories\\Repositories.csproj|d:\\prn212\\project\\minihotelmanagement\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856DA00-0C55-4017-A03D-805965F1608C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856DA00-0C55-4017-A03D-805965F1608C}|Repositories\\Repositories.csproj|d:\\prn212\\project\\minihotelmanagement\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856DA00-0C55-4017-A03D-805965F1608C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856DA00-0C55-4017-A03D-805965F1608C}|Repositories\\Repositories.csproj|d:\\prn212\\project\\minihotelmanagement\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856DA00-0C55-4017-A03D-805965F1608C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7948524-B751-4950-ABDD-BF2F6DE68479}|DataAccessObjects\\DataAccessObjects.csproj|d:\\prn212\\project\\minihotelmanagement\\dataaccessobjects\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7948524-B751-4950-ABDD-BF2F6DE68479}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7576A977-B18D-4E22-A967-CFBB0C028A1C}|BusinessObjects\\BusinessObjects.csproj|d:\\prn212\\project\\minihotelmanagement\\businessobjects\\models\\fuminihotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7576A977-B18D-4E22-A967-CFBB0C028A1C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\fuminihotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7576A977-B18D-4E22-A967-CFBB0C028A1C}|BusinessObjects\\BusinessObjects.csproj|d:\\prn212\\project\\minihotelmanagement\\businessobjects\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7576A977-B18D-4E22-A967-CFBB0C028A1C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7948524-B751-4950-ABDD-BF2F6DE68479}|DataAccessObjects\\DataAccessObjects.csproj|d:\\prn212\\project\\minihotelmanagement\\dataaccessobjects\\dataaccessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7948524-B751-4950-ABDD-BF2F6DE68479}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\dataaccessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7948524-B751-4950-ABDD-BF2F6DE68479}|DataAccessObjects\\DataAccessObjects.csproj|d:\\prn212\\project\\minihotelmanagement\\dataaccessobjects\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7948524-B751-4950-ABDD-BF2F6DE68479}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856DA00-0C55-4017-A03D-805965F1608C}|Repositories\\Repositories.csproj|d:\\prn212\\project\\minihotelmanagement\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D856DA00-0C55-4017-A03D-805965F1608C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08F2CE8-D775-49B3-833B-FF33BBD0CF45}|Services\\Services.csproj|d:\\prn212\\project\\minihotelmanagement\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C08F2CE8-D775-49B3-833B-FF33BBD0CF45}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HotelManagement\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:00:19.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "HotelManagement\\Views\\LoginWindow.xaml",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "HotelManagement\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T08:53:27.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomEditWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\RoomEditWindow.xaml",
+              "RelativeDocumentMoniker": "HotelManagement\\Views\\RoomEditWindow.xaml",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\RoomEditWindow.xaml",
+              "RelativeToolTip": "HotelManagement\\Views\\RoomEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T09:02:29.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerEditWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\CustomerEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Views\\CustomerEditWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\CustomerEditWindow.xaml.cs",
+              "RelativeToolTip": "HotelManagement\\Views\\CustomerEditWindow.xaml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwDcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:02:10.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelManagement\\appsettings.json",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\appsettings.json",
+              "RelativeToolTip": "HotelManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T08:50:05.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\BusinessObjects\\Models\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\BookingDetail.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\BusinessObjects\\Models\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\BookingDetail.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:19:18.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\BusinessObjects\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Customer.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\BusinessObjects\\Models\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:06:39.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerEditWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\CustomerEditWindow.xaml",
+              "RelativeDocumentMoniker": "HotelManagement\\Views\\CustomerEditWindow.xaml",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\CustomerEditWindow.xaml",
+              "RelativeToolTip": "HotelManagement\\Views\\CustomerEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T09:01:56.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Services\\RoomService.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\Services\\RoomService.cs",
+              "RelativeToolTip": "Services\\RoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:26:51.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomEditWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\RoomEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Views\\RoomEditWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\RoomEditWindow.xaml.cs",
+              "RelativeToolTip": "HotelManagement\\Views\\RoomEditWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:02:49.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HotelManagement\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "HotelManagement\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T08:00:19.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\App.xaml",
+              "RelativeDocumentMoniker": "HotelManagement\\App.xaml",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\App.xaml",
+              "RelativeToolTip": "HotelManagement\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T09:03:00.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "HotelManagement\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:54:09.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HotelManagement",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\HotelManagement.csproj",
+              "RelativeDocumentMoniker": "HotelManagement\\HotelManagement.csproj",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\HotelManagement.csproj",
+              "RelativeToolTip": "HotelManagement\\HotelManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T08:42:44.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HotelManagement.csproj",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\HotelManagement.csproj",
+              "RelativeDocumentMoniker": "HotelManagement\\HotelManagement.csproj",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\HotelManagement\\HotelManagement.csproj",
+              "RelativeToolTip": "HotelManagement\\HotelManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T08:12:39.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:24:52.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\Repositories\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRoomRepository.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\Repositories\\IRoomRepository.cs",
+              "RelativeToolTip": "Repositories\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:23:57.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RoomRepository.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:24:25.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:22:27.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:21:40.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\BusinessObjects\\Models\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\RoomInformation.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\BusinessObjects\\Models\\RoomInformation.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\RoomInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:15:07.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoomDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\DataAccessObjects\\RoomDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\RoomDAO.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\DataAccessObjects\\RoomDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\RoomDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:13:58.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T08:11:27.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataAccessObjects.csproj",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\DataAccessObjects\\DataAccessObjects.csproj",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DataAccessObjects.csproj",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\DataAccessObjects\\DataAccessObjects.csproj",
+              "RelativeToolTip": "DataAccessObjects\\DataAccessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T08:06:06.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FUMiniHotelContext.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\BusinessObjects\\Models\\FUMiniHotelContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\FUMiniHotelContext.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\BusinessObjects\\Models\\FUMiniHotelContext.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\FUMiniHotelContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:05:25.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T08:12:12.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\Project\\MiniHotelManagement\\DataAccessObjects\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\CustomerDAO.cs",
+              "ToolTip": "D:\\PRN212\\Project\\MiniHotelManagement\\DataAccessObjects\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\CustomerDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:05:37.573Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
